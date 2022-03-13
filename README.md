@@ -81,7 +81,7 @@ Tanya Aggarwal
 ### The project is not open for reproduction and distribution without explicit permission from us. Creation of derivative work without our permission is also discouraged.
 
 <p align="center">
-	Made with :heart: by Team Tat
+	Made with :heart: by Team Tat <br/>
 	<a href="https://github.com/tarushi98/DUMPIT-STREAMR/blob/main/COPYING.txt">License:GPLv3.0</a>
 </p>
 
