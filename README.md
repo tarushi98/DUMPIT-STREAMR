@@ -82,5 +82,6 @@ Tanya Aggarwal
 
 <p align="center">
 	Made with :heart: by Team Tat
+	<a href="https://github.com/tarushi98/DUMPIT-STREAMR/blob/main/COPYING.txt">License:GPLv3.0</a>
 </p>
 
